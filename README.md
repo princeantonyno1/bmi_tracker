@@ -1,7 +1,8 @@
 # bmi_tracker
 
 **Screenshots:**
-![screenshot](https://github.com/princeantonyno1/bmi_tracker/assets/148847362/bb77bb0b-c443-48fe-8707-a93396b7475b)
+![screenshot](https://github.com/princeantonyno1/bmi_tracker/assets/148847362/2a965da3-a4eb-4d43-8964-a8976b825c77)
+
 
 
 **Key Features:**
