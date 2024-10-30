@@ -1,4 +1,5 @@
-# bmi_tracker
+# BMI Tracker App
+
 
 **Screenshots:**
 ![screenshot](https://github.com/princeantonyno1/bmi_tracker/assets/148847362/2a965da3-a4eb-4d43-8964-a8976b825c77)
