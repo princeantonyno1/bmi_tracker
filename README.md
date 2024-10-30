@@ -9,8 +9,9 @@ Personalized Suggestions: Provides health advice and recommendations based on BM
 Input Validation: Ensures users enter valid data for accurate results.
 
 **Screenshots 📸**
+![git-promo-compressed](https://github.com/user-attachments/assets/7a60d728-8484-412b-aa6f-184463c0f228)
 
-![screenshot](https://github.com/princeantonyno1/bmi_tracker/assets/148847362/2a965da3-a4eb-4d43-8964-a8976b825c77)
+
 
 **Usage✨**
 Enter User Details: Input height, weight, gender, and age.
